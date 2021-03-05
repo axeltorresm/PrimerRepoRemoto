@@ -21,5 +21,5 @@
 
 + La bioética teórica: habla de los fundamentos conceptuales de la bioética en el marco de las teorías morales y la justificación de sus nociones básicas (persona, dignidad, autonomía, etc.).
 
-[Bioeticaimagen](https://www.delitosinformaticos.com/wp-content/uploads/bioetica.jpg)
+![Bioeticaimagen](https://www.delitosinformaticos.com/wp-content/uploads/bioetica.jpg)
 
