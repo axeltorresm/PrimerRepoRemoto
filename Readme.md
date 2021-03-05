@@ -3,6 +3,7 @@
 ##Bioética
 
 ***La bioética:  es el respeto a la dignidad de la vida, esta rama de la ética se encarga de proveer la conducta mas apropiada del ser humano con respecto a ellos mismos y a cualquier otro ser vivo. La Historia de la Bioética tiene una prehistoria constituida por la ética médica. Los más antiguos testimonios los tenemos en Mesopotamia y en Egipto donde se regula el desarrollo de la primitiva práctica médica la contribución esencial es la del griego Hipócrates al que se atribuye el Juramento hipocrático.***
+
 [JURAMENTO HIPOCRÁTICO](http://www.sld.cu/galerias/pdf/sitios/bmn/hipoc_jur.pdf)
 
 
